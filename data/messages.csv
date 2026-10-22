@@ -1,0 +1,521 @@
+text,lang,label,category,template_id
+رمز التحقق لعملية الدفع هو 482913. لا تشاركه مع أي شخص، فالبنك لا يطلبه منك أبدا.,ar,ham,bank,ar_ham_001
+رمز التحقق لعملية التحويل هو 70521. لا تشاركه مع أي شخص، فالبنك لا يطلبه منك عبر الهاتف.,ar,ham,bank,ar_ham_001
+عملية شراء بقيمة 12.500 ر.ع. ببطاقتك لدى متجر في صحار. إذا لم تقم بها اتصل بالبنك على +968 XXXX XXXX,ar,ham,bank,ar_ham_002
+عملية شراء بقيمة 47.300 ر.ع. ببطاقتك لدى محطة وقود في عبري. إذا لم تقم بها اتصل بالبنك على +968 XXXX XXXX,ar,ham,bank,ar_ham_002
+يسرنا إبلاغك بالموافقة على طلب التمويل الشخصي بمبلغ 8000 ر.ع. يرجى زيارة فرع نزوى لتوقيع العقد. التفاصيل: https://bank.example/loan,ar,ham,loan,ar_ham_003
+يسرنا إبلاغك بالموافقة على طلب تمويل السيارة بمبلغ 5500 ر.ع. يرجى زيارة فرع الرستاق لتوقيع العقد. التفاصيل: https://bank.example/loan/status,ar,ham,loan,ar_ham_003
+يستحق القسط الشهري لتمويلك بقيمة 145 ر.ع. يوم 25 من الشهر الجاري. يرجى التأكد من توفر الرصيد الكافي في حسابك.,ar,ham,loan,ar_ham_004
+يستحق قسط تمويل السكن بقيمة 210.500 ر.ع. يوم 1 من الشهر القادم. يرجى التأكد من توفر الرصيد الكافي في حسابك.,ar,ham,loan,ar_ham_004
+وصلت شحنتك القادمة من الخارج إلى مركز الجمارك في مسقط وتستحق عليها رسوم بقيمة 6.200 ر.ع. يمكنك السداد عبر البوابة الرسمية: https://gov.example/customs/pay,ar,ham,delivery,ar_ham_005
+وصلت شحنتك القادمة من الخارج إلى مركز الجمارك في صحار وتستحق عليها رسوم بقيمة 14.750 ر.ع. يمكنك السداد عبر البوابة الرسمية: https://gov.example/customs/duty,ar,ham,delivery,ar_ham_005
+طردك خرج للتوصيل وسيصل إلى عنوانك في عبري اليوم. تتبع الشحنة: https://track.example/t/Q7x2,ar,ham,delivery,ar_ham_006
+طردك خرج للتوصيل وسيصل إلى عنوانك في صور غدا. تتبع الشحنة: https://track.example/t/M4hz,ar,ham,delivery,ar_ham_006
+يسر إدارة المدرسة إبلاغكم بفوز ابنتكم مريم بالمركز الأول في مسابقة القراءة! يقام حفل التكريم يوم الأحد في قاعة المدرسة.,ar,ham,study,ar_ham_007
+يسر إدارة المدرسة إبلاغكم بفوز ابنكم أحمد بالمركز الثاني في مسابقة الرياضيات! يقام حفل التكريم يوم الثلاثاء في قاعة المدرسة.,ar,ham,study,ar_ham_007
+تهانينا! فازت تذكرتك في سحب حفل الموظفين السنوي بقسيمة شرائية. تسلم الجوائز من قسم الموارد البشرية غدا.,ar,ham,prize,ar_ham_008
+تهانينا! فازت تذكرتك في سحب يوم الأسرة بجهاز لوحي. تسلم الجوائز من مكتب الفعاليات يوم الإثنين بعد الظهر.,ar,ham,prize,ar_ham_008
+نشكرك يا يوسف على التقدم لوظيفة محاسب، وندعوك لمقابلة يوم الثلاثاء الساعة 10 صباحا بمقرنا في السيب. للاعتذار: XXXX XXXX,ar,ham,job,ar_ham_009
+نشكرك يا ليلى على التقدم لوظيفة منسقة مبيعات، وندعوك لمقابلة يوم الأربعاء الساعة 11 صباحا بمقرنا في مسقط. للاعتذار: XXXX XXXX,ar,ham,job,ar_ham_009
+مواعيد عمل فروعنا في شهر رمضان من 10 صباحا حتى 2 بعد منتصف الليل. مواقع الفروع: https://store.example/branches رمضان كريم 🌙,ar,ham,shopping,ar_ham_010
+مواعيد عمل فروعنا في أيام العيد من 4 عصرا حتى 12 منتصف الليل. مواقع الفروع: https://store.example/eid عيد مبارك 🌙,ar,ham,shopping,ar_ham_010
+بمناسبة عيد الفطر يحصل أعضاء بطاقة الولاء على خصم 5 ر.ع. عند الشراء بقيمة 30 ر.ع. أو أكثر. كل عام وأنتم بخير! التفاصيل: https://shop.example/eid,ar,ham,shopping,ar_ham_011
+بمناسبة شهر رمضان يحصل أعضاء بطاقة الولاء على خصم 10 ر.ع. عند الشراء بقيمة 50 ر.ع. أو أكثر. رمضان مبارك! التفاصيل: https://shop.example/ramadan,ar,ham,shopping,ar_ham_011
+تنتهي صلاحية بطاقتك الشخصية بعد 30 يوما. رسوم التجديد 5 ر.ع. ويمكنك التجديد عبر بوابة الخدمات الحكومية: https://gov.example/renew,ar,ham,government,ar_ham_012
+تنتهي صلاحية رخصة القيادة بعد 14 يوما. رسوم التجديد 20 ر.ع. ويمكنك التجديد عبر بوابة الخدمات الحكومية: https://gov.example/license,ar,ham,government,ar_ham_012
+عزيزتي عائشة، نذكرك بموعدك في عيادة الأسنان يوم الخميس الساعة 4:30 عصرا. للتأجيل اتصلي على +968 XXXX XXXX,ar,ham,health,ar_ham_013
+عزيزي سالم، نذكرك بموعدك في عيادة العيون يوم الأحد القادم الساعة 9 صباحا. للتأجيل اتصل على +968 XXXX XXXX,ar,ham,health,ar_ham_013
+فاتورة الكهرباء لشهر مارس: 23.400 ر.ع. آخر موعد للسداد 15 أبريل. ادفع عبر https://pay.example/bill,ar,ham,bill,ar_ham_014
+فاتورة المياه لشهر يوليو: 9.850 ر.ع. آخر موعد للسداد 20 أغسطس. ادفع عبر https://pay.example/water,ar,ham,bill,ar_ham_014
+نعتذر عن انقطاع المياه في بعض أحياء صور يوم السبت من 8 صباحا حتى 2 ظهرا لأعمال الصيانة. للطوارئ: XXXX XXXX,ar,ham,bill,ar_ham_015
+نعتذر عن انقطاع الكهرباء في بعض أحياء خصب يوم الإثنين من 9 صباحا حتى 1 ظهرا لأعمال الصيانة. للطوارئ: XXXX XXXX,ar,ham,bill,ar_ham_015
+جددت باقتك الشهرية بقيمة 10 ر.ع. بنجاح. تفاصيل الاستهلاك: https://telecom.example/my,ar,ham,telecom,ar_ham_016
+جددت باقتك الأسبوعية بقيمة 3 ر.ع. بنجاح. تفاصيل الاستهلاك: https://telecom.example/usage,ar,ham,telecom,ar_ham_016
+تلقت إدارة الموارد البشرية بالمستشفى طلبك لوظيفة ممرضة، ويسعدنا دعوتك لمقابلة شخصية يوم الإثنين 9 صباحا في مبنى الإدارة بصلالة. لا توجد أي رسوم للتقديم.,ar,ham,job,ar_ham_017
+تلقت إدارة الموارد البشرية بالمستشفى طلبك لوظيفة فني مختبر، ويسعدنا دعوتك لمقابلة شخصية يوم الخميس 11 صباحا في مبنى الإدارة بصحار. لا توجد أي رسوم للتقديم.,ar,ham,job,ar_ham_017
+نفيدكم بغياب الطالبة سارة عن الحصة الأولى اليوم. يرجى التواصل مع إدارة المدرسة في أقرب وقت على XXXX XXXX,ar,ham,study,ar_ham_018
+نفيدكم بتأخر الطالب حمد عن طابور الصباح اليوم. يرجى التواصل مع إدارة المدرسة في أقرب وقت على XXXX XXXX,ar,ham,study,ar_ham_018
+طلبت إعادة تعيين كلمة المرور. رمز التحقق: 6621. إذا لم تطلب ذلك فتجاهل هذه الرسالة.,ar,ham,bank,ar_ham_019
+طلبت تفعيل الخدمات المصرفية عبر الهاتف. رمز التفعيل: 90418. إذا لم تطلب ذلك فتجاهل الرسالة.,ar,ham,bank,ar_ham_019
+وصل راتب هذا الشهر بمبلغ 950 ر.ع. إلى حسابك. الرصيد المتاح 1210.750 ر.ع.,ar,ham,bank,ar_ham_020
+وصل راتب هذا الشهر بمبلغ 1340 ر.ع. إلى حسابك. الرصيد المتاح 1802.300 ر.ع.,ar,ham,bank,ar_ham_020
+لم يتمكن مندوب التوصيل من الوصول إليك يا أنيل. يرجى معاودة الاتصال على XXXX XXXX لتحديد موعد التسليم.,ar,ham,delivery,ar_ham_021
+لم يتمكن مندوب التوصيل من الوصول إليك يا هند. يرجى معاودة الاتصال على XXXX XXXX لتحديد موعد آخر للتسليم.,ar,ham,delivery,ar_ham_021
+طلبك للتمويل الشخصي قيد المراجعة حاليا، وسيصلك القرار خلال 3 أيام عمل. تابع حالة الطلب: https://bank.example/loan/track,ar,ham,loan,ar_ham_022
+طلبك لتمويل السكن قيد المراجعة حاليا، وسيصلك القرار خلال 5 أيام عمل. تابع حالة الطلب: https://bank.example/loan/home,ar,ham,loan,ar_ham_022
+دواؤك جاهز للاستلام من صيدلية المستشفى في صلالة. للاستفسار: +968 XXXX XXXX,ar,ham,health,ar_ham_023
+دواؤك الشهري جاهز للاستلام من صيدلية المستشفى في البريمي. للاستفسار: +968 XXXX XXXX,ar,ham,health,ar_ham_023
+تم تسجيل مخالفة مرورية على مركبتك بقيمة 15 ر.ع. للاطلاع والسداد خلال 30 يوما: https://gov.example/fines,ar,ham,government,ar_ham_024
+تم تسجيل مخالفة وقوف على مركبتك بقيمة 35 ر.ع. للاطلاع والسداد خلال 30 يوما: https://gov.example/fines/view,ar,ham,government,ar_ham_024
+شكرا لطلبك من متجرنا! قيمة الطلب 18.900 ر.ع. ويصلك خلال يومين. تتبع الطلب: https://shop.example/o/k2P8,ar,ham,shopping,ar_ham_025
+شكرا لطلبك من متجرنا! قيمة الطلب 42.600 ر.ع. ويصلك خلال 3 أيام. تتبع الطلب: https://shop.example/o/Rm7v,ar,ham,shopping,ar_ham_025
+بطاقتك المصرفية الجديدة جاهزة للاستلام من فرع صحار. رمز الاستلام: 7741. احجز موعدا: https://bank.example/card,ar,ham,bank,ar_ham_026
+بطاقتك المصرفية البديلة جاهزة للاستلام من فرع السيب. رمز الاستلام: 30582. احجز موعدا: https://bank.example/card/visit,ar,ham,bank,ar_ham_026
+السيد راهول: تنتهي بطاقة الإقامة الخاصة بك بعد أسبوعين. يرجى تسليم جواز السفر لقسم الموارد البشرية لبدء التجديد.,ar,ham,work,ar_ham_027
+السيدة ماريا: تنتهي بطاقة الإقامة الخاصة بك بعد 10 أيام. يرجى تسليم جواز السفر لقسم الموارد البشرية لبدء التجديد.,ar,ham,work,ar_ham_027
+رمز استلام طلبك هو 3390. لا تشاركه إلا مع مندوب التوصيل عند الاستلام.,ar,ham,delivery,ar_ham_028
+رمز استلام شحنتك هو 51207. لا تشاركه إلا مع مندوب التوصيل عند التسليم.,ar,ham,delivery,ar_ham_028
+جدول الاختبارات النهائية: https://school.example/exams,ar,ham,study,ar_ham_029
+جدول اختبارات منتصف الفصل: https://school.example/midterm,ar,ham,study,ar_ham_029
+أعلنت لجنة مسابقة التصوير في نزوى فوز صورتك يا خالد بالمركز الأول بجائزة 300 ر.ع. تسلم الجائزة في حفل الختام الأربعاء دون رسوم: https://events.example/nizwa,ar,ham,prize,ar_ham_030
+أعلنت لجنة مسابقة الخط في صلالة فوز لوحتك يا جريس بالمركز الثاني بجائزة 150 ر.ع. تسلم الجائزة في حفل الختام الخميس دون رسوم: https://events.example/salalah,ar,ham,prize,ar_ham_030
+تنتهي وثيقة تأمين مركبتك يوم 10 مايو. قيمة التجديد 85 ر.ع. جدد عبر https://insure.example/car,ar,ham,bill,ar_ham_031
+تنتهي وثيقة تأمين منزلك يوم 3 سبتمبر. قيمة التجديد 120 ر.ع. جدد عبر https://insure.example/home,ar,ham,bill,ar_ham_031
+استهلكت 80% من باقة البيانات. للإضافة: https://telecom.example/add,ar,ham,telecom,ar_ham_032
+استهلكت 90% من دقائق الاتصال. للإضافة: https://telecom.example/min,ar,ham,telecom,ar_ham_032
+موعد تطعيم طفلك القادم يوم الإثنين في المركز الصحي بالرستاق. للاستفسار: +968 XXXX XXXX,ar,ham,health,ar_ham_033
+موعد تطعيم طفلتك القادم يوم الأربعاء في المركز الصحي بصحار. للاستفسار: +968 XXXX XXXX,ar,ham,health,ar_ham_033
+تهنئ الإدارة فريقكم بالفوز بجائزة أفضل مشروع لهذا العام، وسيتم صرف مكافأة 200 ر.ع. لكل عضو في الفريق!,ar,ham,work,ar_ham_034
+تهنئ الإدارة قسمكم بالفوز بجائزة أفضل مبادرة لهذا العام، وسيتم صرف مكافأة 150 ر.ع. لكل موظف في القسم!,ar,ham,work,ar_ham_034
+رصدنا دخولا إلى حسابك المصرفي من جهاز جديد. إن لم تكن أنت، اتصل بالبنك فورا على XXXX XXXX,ar,ham,bank,ar_ham_035
+رصدنا تغييرا في رقم الهاتف المسجل لحسابك. إن لم تطلب ذلك، اتصل بالبنك فورا على XXXX XXXX,ar,ham,bank,ar_ham_035
+هلا محمد، تذكر الـ20 ريال اللي تسلفتها مني الأسبوع اللي طاف؟ لو تقدر تحولها اليوم يكون أحسن، محتاجها للإيجار 🙏,ar,ham,personal,ar_ham_036
+هلا ناصر، تذكر الـ35 ريال اللي تسلفتها مني يوم العرس؟ لو تقدر تحولها هالأسبوع يكون أحسن، محتاجها للإيجار 🙏,ar,ham,personal,ar_ham_036
+يمه وصلتي البيت؟ أنا بمر آخذ العيال من المدرسة,ar,ham,personal,ar_ham_037
+يبه وصلت البيت؟ أنا بمر آخذ أختي من الجامعة,ar,ham,personal,ar_ham_037
+وين أنتوا؟ احنا ننتظركم عند المطعم في السيب! هذا الموقع: maps.example/p/f3K,ar,ham,personal,ar_ham_038
+وين أنتوا؟ احنا ننتظركم عند المقهى في صحار! هذا الموقع: maps.example/p/9Lw,ar,ham,personal,ar_ham_038
+خالد، الاجتماع تأجل لبكرة الساعة 9، بلغ الشباب,ar,ham,work,ar_ham_039
+عبير، الاجتماع تأجل للأحد الساعة 10، بلغي البنات,ar,ham,work,ar_ham_039
+عيدكم مبارك وعساكم من عواده 🌹 سلموا لي على الوالدة,ar,ham,personal,ar_ham_040
+رمضان كريم وتقبل الله صيامكم 🌹 سلموا لي على الوالد,ar,ham,personal,ar_ham_040
+سالم، ترى حولت لك 35 ريال حق الغاز، شيك على حسابك,ar,ham,personal,ar_ham_041
+حمود، ترى حولت لك 18 ريال حق الماي، شيك على حسابك,ar,ham,personal,ar_ham_041
+يا جماعة العشا عندنا الخميس بعد صلاة المغرب، لا أحد يتأخر!,ar,ham,personal,ar_ham_042
+يا جماعة الغدا عندنا الجمعة بعد الصلاة، لا أحد يتأخر!,ar,ham,personal,ar_ham_042
+مريم، ترسلين لي ملف العرض قبل الظهر؟ المدير يبيه اليوم,ar,ham,work,ar_ham_043
+علي، ممكن ترسل لي التقرير قبل 1 الظهر؟ المدير يبيه اليوم,ar,ham,work,ar_ham_043
+مساء الخير جوزيف، معك سارة من الموارد البشرية في الشركة. سيرتك عجبتنا ونبيك تجي مقابلة يوم الأحد 10 الصبح في مكتبنا بصحار. ما في أي رسوم، بس جيب شهاداتك,ar,ham,job,ar_ham_044
+مساء الخير بريا، معك خالد من الموارد البشرية في الشركة. سيرتك عجبتنا ونبيك تجين مقابلة يوم الثلاثاء 9 الصبح في مكتبنا بمسقط. ما في أي رسوم، بس جيبي شهاداتك,ar,ham,job,ar_ham_044
+الطرد وصل وخليته عند الباب. المندوب قال الرمز 4420، ولو في مشكلة كلمه على XXXX XXXX,ar,ham,delivery,ar_ham_045
+الكرتون وصل وحطيته في المجلس. المندوب قال الرمز 6183، ولو في مشكلة كلمه على XXXX XXXX,ar,ham,delivery,ar_ham_045
+أبوي يقول لا تنسى تجيب الخبز والحليب وأنت راجع,ar,ham,personal,ar_ham_046
+أمي تقول لا تنسين تجيبين الرز والطماط وأنتي راجعة,ar,ham,personal,ar_ham_046
+ما شاء الله يا شيخة، مبروك على الوظيفة الجديدة! والله فرحت لك واجد 🎉,ar,ham,personal,ar_ham_047
+ما شاء الله يا بدر، مبروك على الترقية! والله فرحت لك واجد 🎉,ar,ham,personal,ar_ham_047
+حمد، الفلوس اللي دفعتها عني في الرحلة كانت 27 ريال صح؟ بحولها لك الليلة، ما قصرت,ar,ham,personal,ar_ham_048
+أسماء، الفلوس اللي دفعتيها عني في السوق كانت 12 ريال صح؟ بحولها لك الليلة، ما قصرتي,ar,ham,personal,ar_ham_048
+ماريا جارتنا عازمتنا بكرة على العشا بعد المغرب، جيب معك الحلا وأنت جاي,ar,ham,personal,ar_ham_049
+راهول زميلي بيمرنا بكرة بعد العصر نراجع المشروع، خل باب المجلس مفتوح,ar,ham,personal,ar_ham_049
+الدكتور جوزيف قال النتائج طيبة الحمدلله وما فيني شي، بس لازم أرجع بعد شهر للمراجعة,ar,ham,health,ar_ham_050
+الدكتورة بريا قالت الضغط زين الحمدلله وما فيني شي، بس لازم أرجع بعد أسبوعين للمراجعة,ar,ham,health,ar_ham_050
+بشرى يا الوالد، البنك أرسل لي إن قرض البيت انقبل، وبروح فرع السيب الأحد أوقع العقد. ما طلبوا أي رسوم، والتفاصيل في bank.example/loan,ar,ham,loan,ar_ham_051
+بشرى يا الوالدة، البنك أرسل لي إن قرض السيارة انقبل، وبروح فرع صحار الإثنين أوقع العقد. ما طلبوا أي رسوم، والتفاصيل في bank.example/loan/car,ar,ham,loan,ar_ham_051
+حجزت الشاليه في صور يوم الجمعة، كل واحد عليه 15 ريال. ادفعوا لي قبل الأربعاء!,ar,ham,personal,ar_ham_052
+حجزت المزرعة في نزوى يوم السبت، كل وحدة عليها 10 ريال. ادفعوا لي قبل الخميس!,ar,ham,personal,ar_ham_052
+فزت في سحب الجمعية! طلعت لي جائزة 100 ريال، بعزمكم على العشا الليلة 😄,ar,ham,prize,ar_ham_053
+فزت في مسابقة الحي! طلعت لي جائزة 50 ريال، بعزمكم على الغدا بكرة 😄,ar,ham,prize,ar_ham_053
+جوزيف، العميل يسأل عن عرض السعر. بترسله اليوم ولا بكرة؟,ar,ham,work,ar_ham_054
+بريا، العميل يسأل عن الفاتورة. بترسلينها اليوم ولا بكرة؟,ar,ham,work,ar_ham_054
+رابط اجتماع الفريق الساعة 11: meet.example/team-ops ورمز الدخول 6630، ادخلوا قبل بخمس دقايق ولا تنسون الملفات,ar,ham,work,ar_ham_055
+رابط اجتماع المبيعات الساعة 2 الظهر: meet.example/sales ورمز الدخول 81204، ادخلوا قبل بخمس دقايق ولا تنسون الملفات,ar,ham,work,ar_ham_055
+تراني في المستشفى بالبريمي مع الوالد، بتأخر شوي عن الدوام,ar,ham,personal,ar_ham_056
+تراني في المستشفى بصلالة مع الوالدة، بتأخر شوي عن الدوام,ar,ham,personal,ar_ham_056
+ولدك نجح الحمدلله؟ سمعت إنه طلع الأول على صفه!,ar,ham,study,ar_ham_057
+بنتك نجحت الحمدلله؟ سمعت إنها طلعت الأولى على صفها!,ar,ham,study,ar_ham_057
+أنيل، الشحنة بتوصل المستودع بكرة الصبح. تقدر تستلمها وتتصل فيني على +968 XXXX XXXX؟,ar,ham,work,ar_ham_058
+جريس، الشحنة بتوصل المستودع بعد بكرة. تقدرين تستلمينها وتتصلين فيني على +968 XXXX XXXX؟,ar,ham,work,ar_ham_058
+حطيت صور العرس في هذا الرابط: photos.example/a/Wd3q شوفها وقول لي رأيك 📸,ar,ham,personal,ar_ham_059
+حطيت صور التخرج في هذا الرابط: photos.example/a/p8Rt شوفيها وقولي لي رأيك 📸,ar,ham,personal,ar_ham_059
+راشد، اليوم القهوة عليّ، ما أبيك تدفع 😅,ar,ham,personal,ar_ham_060
+نوال، اليوم الغدا عليّ، ما أبيك تدفعين 😅,ar,ham,personal,ar_ham_060
+حياك الله يا عمي، المحل بيفتح أيام العيد من 4 العصر لين 11 بالليل. للطلبات كلمنا على XXXX XXXX. عيدكم مبارك!,ar,ham,shopping,ar_ham_061
+حياك الله يا عمي، المحل بيفتح في رمضان من 8 بالليل لين 2 الفجر. للطلبات كلمنا على XXXX XXXX. رمضان كريم!,ar,ham,shopping,ar_ham_061
+اسمك طلع في سحب معرض الكتاب اللي سجلنا فيه في مسقط، والجائزة جهاز لوحي! تستلمها بنفسك من مكتب المعرض وما في أي رسوم. التفاصيل: events.example/draw,ar,ham,prize,ar_ham_062
+اسمك طلع في سحب مهرجان الخريف اللي سجلنا فيه في صلالة، والجائزة قسيمة 50 ريال! تستلمها بنفسك من خيمة المنظمين وما في أي رسوم. التفاصيل: events.example/fest,ar,ham,prize,ar_ham_062
+فاطمة، المعلمة جريس تبي توقيع ورقة الرحلة، تمرين المدرسة الصبح؟,ar,ham,study,ar_ham_063
+عمر، المعلم جوزيف يبي توقيع ورقة الرحلة، تمر المدرسة الصبح؟,ar,ham,study,ar_ham_063
+خلصت فاتورة الماي؟ هي 12 ريال، ادفعها من هنا pay.example/water قبل لا يقطعونه,ar,ham,bill,ar_ham_064
+خلصت فاتورة الكهرباء؟ هي 31 ريال، ادفعها من هنا pay.example/power قبل لا يقطعونها,ar,ham,bill,ar_ham_064
+عبدالله، عطني رقم حسابك عشان أحول لك قيمة التذاكر 42 ريال,ar,ham,personal,ar_ham_065
+شيماء، عطيني رقم حسابك عشان أحول لك قيمة الكيكة 15 ريال,ar,ham,personal,ar_ham_065
+سعيد، شركة التوصيل اتصلت تقول طلبك وصل خصب وبيوصلك العصر إن شاء الله، والمندوب بيتصل فيك قبل لا يجي. هذا رابط التتبع: https://track.example/z8Lm,ar,ham,delivery,ar_ham_066
+منى، شركة التوصيل اتصلت تقول طلبك وصل البريمي وبيوصلك الليلة إن شاء الله، والمندوب بيتصل فيك قبل لا يجي. هذا رابط التتبع: https://track.example/b2Qs,ar,ham,delivery,ar_ham_066
+جريس، ترى الدوام بكرة يبدأ الساعة 7 بسبب زيارة المدير. لا تتأخرين,ar,ham,work,ar_ham_067
+راهول، ترى الدوام بكرة يبدأ الساعة 6:30 بسبب زيارة المدير. لا تتأخر,ar,ham,work,ar_ham_067
+انتبهي يمه، الرمز اللي يوصلك من البنك لا تعطينه أحد حتى لو قالوا إنهم من البنك. بجي العصر وأساعدك,ar,ham,personal,ar_ham_068
+انتبه يبه، الرمز اللي يوصلك من البنك لا تعطيه أحد حتى لو قالوا إنهم من البنك. بجي الليلة وأساعدك,ar,ham,personal,ar_ham_068
+دورة السباحة حق البنات الرسوم فيها 25 ريال وآخر يوم للتسجيل الأحد: club.example/swim,ar,ham,study,ar_ham_069
+دورة الرسم حق العيال الرسوم فيها 20 ريال وآخر يوم للتسجيل الخميس: club.example/art,ar,ham,study,ar_ham_069
+بريا، اتصلي على العيادة XXXX XXXX وأكدي موعدك قبل 12 الظهر,ar,ham,health,ar_ham_070
+يوسف، اتصل على العيادة XXXX XXXX وأكد موعدك قبل 1 الظهر,ar,ham,health,ar_ham_070
+تنبيه: تم تعليق بطاقتك المصرفية بسبب نشاط غير معتاد. حدّث بياناتك قبل الساعة 6 مساء عبر https://verify.example/card,ar,spam,fraud_phishing,ar_spam_001
+تنبيه: تم إيقاف بطاقتك المصرفية بسبب عملية غير معتادة. حدّث بياناتك قبل الساعة 9 مساء عبر https://verify.example/card-check,ar,spam,fraud_phishing,ar_spam_001
+سالم، حسابك في البنك بيتقفل اليوم إذا ما حدثت بياناتك. ادخل هنا بسرعة: acct.example/upd,ar,spam,fraud_phishing,ar_spam_002
+خالد، حسابك في البنك بيتوقف الليلة إذا ما جددت بياناتك. ادخل هنا بسرعة: acct.example/renew,ar,spam,fraud_phishing,ar_spam_002
+يرجى مراجعة إشعار حسابك: https://notice.example/r7,ar,spam,fraud_phishing,ar_spam_003
+يرجى مراجعة الإشعار الأخير على حسابك: https://notice.example/m3,ar,spam,fraud_phishing,ar_spam_003
+عندك مخالفة مرورية في السيب بقيمة 15 ر.ع.، ادفعها اليوم قبل لا تتضاعف 🚗 fines.example/pay,ar,spam,fraud_phishing,ar_spam_004
+عندك مخالفة سرعة في صحار بقيمة 20 ر.ع.، سددها اليوم قبل لا تزيد 🚗 fines.example/p8,ar,spam,fraud_phishing,ar_spam_004
+عزيزي العميل، تعذر التحقق من هوية حسابك لدى مزود الاتصالات وسيُوقف الخط خلال يومين. اتصل بقسم التحقق على +968 XXXX XXXX,ar,spam,fraud_impersonation,ar_spam_005
+عزيزي المشترك، تعذرت مطابقة بيانات شريحتك لدى مزود الاتصالات وستُفصل الخدمة خلال ثلاثة أيام. تواصل مع قسم التحقق على XXXX XXXX,ar,spam,fraud_impersonation,ar_spam_005
+نود إعلامك بأن صندوق بريدك الإلكتروني اقترب من الامتلاء. يمكنك توسيع المساحة مجانا من هنا https://mail.example/space,ar,spam,fraud_phishing,ar_spam_006
+نود إعلامك بأن صندوق بريدك الإلكتروني قد امتلأ. يمكنك زيادة المساحة مجانا من هنا https://mail.example/storage,ar,spam,fraud_phishing,ar_spam_006
+هلا مريم، شفت صورتك منشورة في مجموعة غريبة وفيها كلام عنك. شوفيها بنفسك وقولي لي إذا تعرفين منو نشرها: snap-view.example/v91,ar,spam,fraud_phishing,ar_spam_007
+هلا فاطمة، لقيت صورتك في قروب غريب وفيه كلام عنك. افتحيها بنفسك وقولي لي إذا تعرفين منو حطها: snap-view.example/k27,ar,spam,fraud_phishing,ar_spam_007
+تم رصد محاولة دخول إلى حسابك من جهاز جديد في صلالة! إذا لم تكن أنت فاحمِ حسابك الآن: https://secure.example/stop,ar,spam,fraud_phishing,ar_spam_008
+تم رصد تسجيل دخول إلى حسابك من جهاز غير معروف في نزوى! إذا لم يكن هذا أنت فأوقفه الآن: https://secure.example/lock,ar,spam,fraud_phishing,ar_spam_008
+ترا الطلبية حقك واقفة، شيك هنا: ship.example/t4,ar,spam,fraud_phishing,ar_spam_009
+ترا الشحنة حقك متعطلة، شوف هنا: ship.example/x9,ar,spam,fraud_phishing,ar_spam_009
+أحمد، وصلك كود مني بالغلط، ارسله لي لو سمحت,ar,spam,fraud_otp,ar_spam_010
+يوسف، جاك رمز مني بالخطأ، رده لي الحين ضروري,ar,spam,fraud_otp,ar_spam_010
+لإتمام تسجيلك في السحب الشهري ستصلك رسالة تحتوي على رمز من ستة أرقام. يرجى الرد على هذه الرسالة بالرمز نفسه لتأكيد مشاركتك,ar,spam,fraud_otp,ar_spam_011
+لاستكمال اشتراكك في السحب الأسبوعي ستصلك رسالة فيها رمز من أربعة أرقام. يرجى إرسال الرمز ردا على هذه الرسالة لتثبيت مشاركتك,ar,spam,fraud_otp,ar_spam_011
+وصلك رمز الحين؟ ارسله لي بسرعة,ar,spam,fraud_otp,ar_spam_012
+جاك كود قبل شوي؟ ارسله لي لو سمحت,ar,spam,fraud_otp,ar_spam_012
+سعيد، تم ترشيحك لعضوية مجانية في نادي التسوق. أرسل لنا الرمز الذي وصلك للتو لتفعيلها,ar,spam,fraud_otp,ar_spam_013
+هدى، تم اختيارك لبطاقة خصم مجانية في نادي التسوق. أرسلي إلينا الرمز الذي وصلك الآن لتفعيلها,ar,spam,fraud_otp,ar_spam_013
+أنا مشارك في مسابقة ومحتاج تصويتك، بيوصلك كود من ستة أرقام، ارسله لي هنا!,ar,spam,fraud_otp,ar_spam_014
+بنتي مشاركة في مسابقة الرسم ومحتاجين صوتك، بيوصلك كود من أربعة أرقام، رده لي هنا!,ar,spam,fraud_otp,ar_spam_014
+رمز التحقق الخاص بك هو 619074. إذا لم تطلب هذا الرمز فأرسله إلينا فورا عبر الرابط https://otp.example/report لإلغاء الطلب,ar,spam,fraud_otp,ar_spam_015
+رمز التأكيد الخاص بك هو 73051. إن لم تكن طلبت هذا الرمز فأعد إرساله إلينا عبر الرابط https://otp.example/cancel لإيقاف العملية,ar,spam,fraud_otp,ar_spam_015
+بريا، لازم تأكدين رقمك عشان يتحول الراتب، عبي النموذج وحطي فيه الكود اللي بيوصلك: https://staff-verify.example/v2,ar,spam,fraud_otp,ar_spam_016
+ماريا، لازم تأكدين رقمك عشان يتجدد التأمين، عبي الاستمارة وحطي فيها الكود اللي بيجيك: https://staff-verify.example/i5,ar,spam,fraud_otp,ar_spam_016
+شحنتك متوقفة في الجمارك بسبب رسوم غير مدفوعة قدرها 2.500 ر.ع. يرجى السداد قبل الساعة 8 مساء لتجنب إعادتها إلى المرسل! parcel-fee.example/customs,ar,spam,fraud_fee,ar_spam_017
+طردك محتجز في الجمارك بسبب رسوم غير مسددة قدرها 1.800 ر.ع. يرجى الدفع قبل الساعة 10 صباحا لتجنب إرجاعه إلى المرسل! parcel-fee.example/fee,ar,spam,fraud_fee,ar_spam_017
+فزت بجائزة 5000 ريال يا بطل، بس لازم تحول رسوم الإفراج 30 ريال أول، كلمنا على XXXX XXXX,ar,spam,fraud_fee,ar_spam_018
+فزت بجائزة 3000 ريال يا بطل، بس لازم تدفع رسوم التحويل 25 ريال قبل، كلمنا على XXXX XXXX,ar,spam,fraud_fee,ar_spam_018
+طردك رقم 70412 جاهز للتسليم بعد دفع 1.200 ر.ع. فقط عبر parcel-hold.example/p1,ar,spam,fraud_fee,ar_spam_019
+طردك رقم 58263 بانتظارك بعد سداد 0.900 ر.ع. فقط عبر parcel-hold.example/p2,ar,spam,fraud_fee,ar_spam_019
+معاك شركة التوصيل، عندنا كرتون باسمك وصل نزوى من برا، ونسلمه بعد تحويل رسوم التخزين على حساب بنرسله لك. رد علينا بنعم,ar,spam,fraud_fee,ar_spam_020
+معاك شركة التوصيل، عندنا صندوق باسمك وصل صور من برا، ونوصله بعد دفع رسوم المستودع على حساب بنرسله لك. رد علينا بموافق,ar,spam,fraud_fee,ar_spam_020
+تم تحديد موعد توصيل طردك غدا. لتأكيد العنوان وسداد رسوم التوصيل الرمزية قبل الساعة 4 عصرا اضغط هنا: https://deliv.example/c5,ar,spam,fraud_fee,ar_spam_021
+تم تحديد موعد تسليم طردك بعد غد. لتأكيد العنوان ودفع رسوم الشحن الرمزية قبل الساعة 11 صباحا اضغط هنا: https://deliv.example/z8,ar,spam,fraud_fee,ar_spam_021
+يا سعيد، طلع اسمك في السحب وفزت بسيارة، باقي بس تدفع 75 ريال رسوم تسجيل وتستلمها,ar,spam,fraud_fee,ar_spam_022
+يا ناصر، طلع اسمك في القرعة وفزت بسيارة، باقي بس تحول 90 ريال رسوم نقل ملكية وتستلم المفتاح,ar,spam,fraud_fee,ar_spam_022
+إشعار: لديك شحنة دولية في مستودع صحار منذ أسبوعين، ورسوم التخزين 4.750 ر.ع. وستُتلف إن لم تُسدد. للاستفسار: +968 XXXX XXXX,ar,spam,fraud_fee,ar_spam_023
+إشعار: لديك طرد خارجي في مستودع السيب منذ عشرة أيام، وكلفة التخزين 3.250 ر.ع. وسيُتلف إن لم تُدفع. للاستفسار: +968 XXXX XXXX,ar,spam,fraud_fee,ar_spam_023
+الطرد حقك عالق، حول ريالين ونرسله لك!,ar,spam,fraud_fee,ar_spam_024
+شحنتك عالقة، حول ثلاثة ريالات ونوصلها لك!,ar,spam,fraud_fee,ar_spam_024
+السيدة فاطمة، يسعدنا إبلاغك بأن مبلغ التعويض الخاص بك جاهز للصرف بعد استكمال رسوم المعالجة عبر https://claim.example/refund,ar,spam,fraud_fee,ar_spam_025
+السيدة عائشة، يسرنا إعلامك بأن مبلغ الاسترداد الخاص بك جاهز للتحويل بعد سداد رسوم المعالجة عبر https://claim.example/c2,ar,spam,fraud_fee,ar_spam_025
+أنا خالد، عليّ مخالفة لازم تنسدد اليوم وحسابي موقوف، ادفعها عني 50 ريال على حساب بعطيك رقمه وبرجعها لك باجر,ar,spam,fraud_impersonation,ar_spam_026
+أنا سالم، عليّ غرامة في البلدية لازم تندفع الليلة وبطاقتي واقفة، حول عني 80 ريال على حساب بعطيك رقمه وبردها لك بكرة,ar,spam,fraud_impersonation,ar_spam_026
+السلام عليكم، أنا عمك حمد، الحين في صلالة وضاعت محفظتي ومحتاج أسدد الفندق، تقدر تحول لي على حساب صاحب الفندق؟ برجعها لك أول ما أوصل,ar,spam,fraud_impersonation,ar_spam_027
+السلام عليكم، أنا خالتك زينب، الحين في خصب وضاعت شنطتي ومحتاجة أسدد الشقة، تقدر تحول لي على حساب صاحب الشقة؟ برجعها لك أول ما أرجع,ar,spam,fraud_impersonation,ar_spam_027
+مرحبا، أنا يوسف زميلك في العمل. أحتاج مساعدة عاجلة، هل يمكنك تحويل مبلغ صغير الآن؟,ar,spam,fraud_impersonation,ar_spam_028
+مرحبا، أنا راشد جارك في السكن. أحتاج مساعدة سريعة، هل تستطيع تحويل مبلغ بسيط اليوم؟,ar,spam,fraud_impersonation,ar_spam_028
+شيخة، حولي لي 20 ريال الحين على حساب صاحبتي، ضروري ولا تتصلين,ar,spam,fraud_impersonation,ar_spam_029
+مريم، حولي لي 15 ريال الحين على حساب بنت خالتي، ضروري ولا تتصلين فيني,ar,spam,fraud_impersonation,ar_spam_029
+أنا راهول صديق أخيك، طلب مني أن أراسلك لأنه في موقف صعب ويحتاج 120 ريالا قبل المساء. أرسل المبلغ إلى الحساب الذي سأبعثه لك,ar,spam,fraud_impersonation,ar_spam_030
+أنا أنيل صديق ابن عمك، طلب مني أن أكتب لك لأنه في ظرف صعب ويحتاج 150 ريالا قبل الليل. حوّل المبلغ إلى الحساب الذي سأرسله لك,ar,spam,fraud_impersonation,ar_spam_030
+حبيبي، أنا ولد عمك، كلمني على +968 XXXX XXXX ضروري، أبغاك في موضوع تحويل,ar,spam,fraud_impersonation,ar_spam_031
+حبيبي، أنا ولد خالك، اتصل بي على +968 XXXX XXXX ضروري، أبغاك في موضوع فلوس,ar,spam,fraud_impersonation,ar_spam_031
+عزيزي، أنا عالق في المطار وبطاقتي لا تعمل. هل تستطيع تحويل ثمن التذكرة؟ سأعيده فور وصولي إلى مسقط,ar,spam,fraud_impersonation,ar_spam_032
+عزيزي، أنا عالق في محطة الحافلات ومحفظتي سُرقت. هل يمكنك تحويل أجرة الطريق؟ سأردها فور وصولي إلى صور,ar,spam,fraud_impersonation,ar_spam_032
+مبروك! تم اختيار رقمك فائزا بجائزة نقدية قدرها 3000 ر.ع. في السحب السنوي 🎉 لاستلام جائزتك أدخل بياناتك هنا: https://win.example/claim,ar,spam,prize,ar_spam_033
+مبروك! تم اختيار رقمك فائزا بجائزة مالية قيمتها 2500 ر.ع. في السحب الكبير 🎉 لاستلام المبلغ سجل بياناتك هنا: https://win.example/get,ar,spam,prize,ar_spam_033
+يا هلا! طلع رقمك من الفائزين في مسابقة رمضان، اتصل على XXXX XXXX عشان تستلم هديتك,ar,spam,prize,ar_spam_034
+يا هلا! رقمك من الرابحين في مسابقة العيد، كلمنا على XXXX XXXX عشان تاخذ جائزتك,ar,spam,prize,ar_spam_034
+لديك جائزة رقم 4417 بانتظار الاستلام. رد بكلمة نعم,ar,spam,prize,ar_spam_035
+لديك هدية رقم 9032 بانتظار التأكيد. رد بكلمة موافق,ar,spam,prize,ar_spam_035
+ماريا، فزتي بقسيمة شرائية، الرمز حقك 7314، ارسليه لنا مع اسمك الكامل عشان نفعلها,ar,spam,prize,ar_spam_036
+جريس، ربحتي بطاقة هدية، الكود حقك 52906، ارسليه لنا مع اسمك الكامل عشان نشغلها,ar,spam,prize,ar_spam_036
+فاز رقمك بهاتف ذكي في سحب زوار السوق بالبريمي. يرجى تعبئة نموذج الاستلام وإدخال بيانات بطاقتك المصرفية قبل نهاية الأسبوع عبر draw-form.example/form,ar,spam,prize,ar_spam_037
+فاز رقمك بجهاز لوحي في سحب زوار المعرض بعبري. يرجى تعبئة استمارة الاستلام وإدخال بيانات بطاقتك المصرفية قبل نهاية الشهر عبر draw-form.example/f2,ar,spam,prize,ar_spam_037
+هديتك جاهزة: جوال جديد 📱 رد بـ1 للاستلام!,ar,spam,prize,ar_spam_038
+هديتك تنتظرك: ساعة ذكية ⌚ رد بـ2 عشان تستلمها!,ar,spam,prize,ar_spam_038
+عائشة، اسمك ضمن الفائزين العشرة في سحب العملاء، ونصيبك 500 ر.ع. تُحوَّل خلال يوم عمل بعد تأكيد رقم حسابك,ar,spam,prize,ar_spam_039
+زينب، اسمك ضمن الفائزين الخمسة في سحب المشتركين، وحصتك 750 ر.ع. تُحوَّل خلال يومين بعد تأكيد رقم حسابك,ar,spam,prize,ar_spam_039
+تمويل شخصي فوري حتى 10000 ر.ع. دون تحويل راتب ودون كفيل. الموافقة خلال ساعة واحدة فقط. قدم طلبك الآن! https://loan.example/apply,ar,spam,loan,ar_spam_040
+تمويل شخصي سريع حتى 15000 ر.ع. بلا تحويل راتب وبلا ضامن. الموافقة خلال ساعتين فقط. أرسل طلبك اليوم! https://loan.example/now,ar,spam,loan,ar_spam_040
+محتاج قرض؟ نخلص لك قرض بدون راتب وبدون أوراق كثيرة، راسلنا على +968 XXXX XXXX,ar,spam,loan,ar_spam_041
+تحتاج تمويل؟ نطلع لك تمويل بدون تحويل راتب وبدون معاملات طويلة، راسلنا على +968 XXXX XXXX,ar,spam,loan,ar_spam_041
+خدمات حكومية: رسوم تجديد بطاقتك الشخصية متأخرة 5 ر.ع. ادفعها بالبطاقة المصرفية قبل الساعة 12 ظهرا عبر https://id-renew.example/p3,ar,spam,fraud_fee,ar_spam_042
+خدمات حكومية: رسوم تجديد جواز سفرك متأخرة 7 ر.ع. سددها بالبطاقة المصرفية قبل الساعة 3 عصرا عبر https://id-renew.example/k8,ar,spam,fraud_fee,ar_spam_042
+ناصر، عندنا مكتب في الرستاق نسوي قروض للموظفين والمتقاعدين بدون تحويل راتب، تجيب البطاقة بس ونخلص لك نفس اليوم. تحب نحجز لك موعد؟,ar,spam,loan,ar_spam_043
+علي، عندنا مكتب في عبري نطلع قروض للموظفين والمتقاعدين بدون تحويل راتب، تجيب البطاقة بس ونخلص لك نفس اليوم. تبي نسجل لك موعد؟,ar,spam,loan,ar_spam_043
+يسعدنا إبلاغك بأنك مؤهل لتمويل مسبق الموافقة بقيمة 5000 ر.ع. لمعرفة التفاصيل اتصل على +968 XXXX XXXX,ar,spam,loan,ar_spam_044
+يسرنا إعلامك بأنك مؤهل لتمويل معتمد مسبقا بقيمة 8000 ر.ع. للتفاصيل تواصل على +968 XXXX XXXX,ar,spam,loan,ar_spam_044
+ديونك كثيرة؟ نسددها عنك! سجل: debt.example/s1,ar,spam,loan,ar_spam_045
+أقساطك ثقيلة؟ نسكرها عنك! سجل: debt.example/h4,ar,spam,loan,ar_spam_045
+قروض سريعة للمقيمين في مسقط. اتصل: XXXX XXXX,ar,spam,loan,ar_spam_046
+تمويل عاجل للمقيمين في صحار. للتواصل: XXXX XXXX,ar,spam,loan,ar_spam_046
+تبي دخل إضافي من البيت؟ شغل بسيط على الجوال ساعة باليوم وتطلع 30 ريال يوميا!,ar,spam,job,ar_spam_047
+تبغى دخل زيادة وأنت في البيت؟ شغل سهل على التلفون ساعتين باليوم وتطلع 45 ريال كل يوم!,ar,spam,job,ar_spam_047
+مطلوب موظفون للعمل عن بعد في تقييم المنتجات عبر الإنترنت، لا يشترط مؤهل أو خبرة، والراتب يصل إلى 600 ر.ع. شهريا. للتسجيل: https://jobs.example/remote,ar,spam,job,ar_spam_048
+مطلوب موظفون للعمل من المنزل في تقييم الفنادق عبر الإنترنت، لا تشترط شهادة أو خبرة، والدخل يصل إلى 800 ر.ع. شهريا. للتقديم: https://jobs.example/home,ar,spam,job,ar_spam_048
+يا أنيل، في شغل زين لك من البيت بـ30 ريال يوميا، بس ادفع 10 ريال رسوم تسجيل. تبي التفاصيل؟,ar,spam,job,ar_spam_049
+يا راهول، عندي شغلة لك من البيت بـ25 ريال يوميا، بس حول 8 ريال رسوم فتح ملف. تبي أعلمك؟,ar,spam,job,ar_spam_049
+شركة في صحار تطلب سائقين ومندوبين براتب مرتفع وسكن مجاني! للتقديم اتصل على +968 XXXX XXXX,ar,spam,job,ar_spam_050
+شركة في السيب تطلب عمالا ومشرفين براتب ممتاز ومواصلات مجانية! للتقديم اتصل على +968 XXXX XXXX,ar,spam,job,ar_spam_050
+هدى، شفنا سيرتك الذاتية في موقع التوظيف وعندنا وظيفة تناسبك، بس نحتاج رسوم فتح ملف 25 ريال قبل المقابلة. إذا موافقة ارسلي لنا صورة البطاقة,ar,spam,job,ar_spam_051
+سلمى، اطلعنا على سيرتك الذاتية في موقع الوظائف وعندنا شاغر يناسبك، بس لازم رسوم تسجيل 20 ريال قبل المقابلة. إذا موافقة ارسلي لنا صورة الجواز,ar,spam,job,ar_spam_051
+تربح من تلفونك كل يوم بمهام سهلة مثل الإعجاب بالمقاطع ومشاركتها 💰 كلمنا على XXXX XXXX عشان تنضم,ar,spam,job,ar_spam_052
+تكسب من جوالك كل يوم بمهام خفيفة مثل متابعة الحسابات والتعليق عليها 💰 كلمنا على XXXX XXXX عشان تبدأ,ar,spam,job,ar_spam_052
+عليك غرامة تأخير في تجديد ملكية السيارة 10 ريال، ادفعها ببطاقتك قبل الساعة 5 👇 vehicle-dues.example/j2,ar,spam,fraud_fee,ar_spam_053
+عليك غرامة تأخير في تجديد رخصة السياقة 12 ريال، سددها ببطاقتك قبل الساعة 7 👇 vehicle-dues.example/n7,ar,spam,fraud_fee,ar_spam_053
+تخفيضات نهاية الموسم في معرض الأثاث بمسقط تصل إلى 70% على جميع الغرف والمطابخ. العرض ساري حتى نهاية الأسبوع. تصفح الكتالوج: https://furn.example/sale,ar,spam,promo,ar_spam_054
+تنزيلات نهاية العام في معرض المفروشات بصلالة تصل إلى 60% على غرف النوم والمجالس. العرض مستمر حتى آخر الشهر. شاهد الكتالوج: https://furn.example/offers,ar,spam,promo,ar_spam_054
+عرض ما يتكرر! عطور فرنسية بنص السعر وتوصيل مجاني، استخدم كود 5512 عند الطلب,ar,spam,promo,ar_spam_055
+فرصة ما تتعوض! عود وبخور بنص السعر وتوصيل ببلاش، استخدم كود 8840 وقت الطلب,ar,spam,promo,ar_spam_055
+خصم خاص على باقات العطلات هذا الشهر. للحجز: XXXX XXXX,ar,spam,promo,ar_spam_056
+خصم خاص على رحلات العائلات هذا الموسم. للحجز: XXXX XXXX,ar,spam,promo,ar_spam_056
+افتتاح مطعم جديد في صور، أول 100 زبون عليهم وجبة مجانية، شوف المنيو: food.example/menu,ar,spam,promo,ar_spam_057
+افتتاح مقهى جديد في البريمي، أول 50 زبون عليهم قهوة مجانية، شوف القائمة: cafe.example/m,ar,spam,promo,ar_spam_057
+دورات تقوية في الرياضيات واللغة الإنجليزية لجميع المراحل بسعر 40 ر.ع. للشهر. للحجز: XXXX XXXX,ar,spam,promo,ar_spam_058
+دروس تقوية في الفيزياء والكيمياء لجميع الصفوف بسعر 35 ر.ع. للشهر. للتسجيل: XXXX XXXX,ar,spam,promo,ar_spam_058
+يا جماعة العيد قرب 🌙 عندنا كشخة العيد كاملة: دشاديش ومصار وكمم بأسعار تبدأ من 8 ريال، والتوصيل لين باب البيت. ارسل كلمة عيد ونرسل لك الصور,ar,spam,promo,ar_spam_059
+يا جماعة رمضان قرب 🌙 عندنا سفرة رمضان كاملة: تمر وقهوة وبهارات بأسعار تبدأ من 5 ريال، والتوصيل لين باب البيت. ارسل كلمة رمضان ونرسل لك القائمة,ar,spam,promo,ar_spam_059
+منصور، أنت مدعو لحضور عرض حصري للشقق الفاخرة يوم الجمعة مع هدايا للحاضرين. رمز الدعوة 8830,ar,spam,promo,ar_spam_060
+سالم، أنت مدعو لحضور عرض خاص للفلل الجديدة يوم السبت مع هدايا للزوار. رمز الدعوة 41275,ar,spam,promo,ar_spam_060
+"Your one-time code is 482917. Do NOT share this code with anyone, including bank staff.",en,ham,bank,en_ham_001
+"Use code 730564 to confirm your transfer. Do NOT share it with anyone, even bank employees.",en,ham,bank,en_ham_001
+Card ending 21 used for 23.500 OMR at a pharmacy in Seeb on 14 Oct. Not you? Call the bank on +968 XXXX XXXX.,en,ham,bank,en_ham_002
+Card ending 87 used for 61.200 OMR at a grocery store in Sohar on 3 Nov. Not you? Call the bank on +968 XXXX XXXX.,en,ham,bank,en_ham_002
+"Dear Salim, your personal loan request is APPROVED. OMR 4,500 will reach your account within 2 working days. Details: https://bank.example/loans",en,ham,loan,en_ham_003
+"Dear Hind, your housing loan request is APPROVED. OMR 18,000 will be released within 5 working days. Details: https://bank.example/loan-status",en,ham,loan,en_ham_003
+Reminder: your car loan instalment of 185.000 OMR is due on 25 Oct. Please keep enough balance in your account. Queries: XXXX XXXX,en,ham,loan,en_ham_004
+Reminder: your personal finance instalment of 96.400 OMR falls due on 2 Nov. Kindly keep enough funds in your account. Help: XXXX XXXX,en,ham,loan,en_ham_004
+Customs notice: shipment REF 77231 is held pending duty of OMR 6.200. Pay via gov.example/customs-pay and quote the reference.,en,ham,delivery,en_ham_005
+Customs notice: package REF 40958 awaits import duty of OMR 11.750. Settle it at gov.example/customs-duty using this reference.,en,ham,delivery,en_ham_005
+Your parcel is out for delivery today. Track it here: https://track.example/p/8KD2,en,ham,delivery,en_ham_006
+Your parcel will arrive tomorrow between 2 and 6 PM. Live tracking: https://track.example/p/Q7mX,en,ham,delivery,en_ham_006
+Courier: we missed Maria at your Sohar address today. Call us on +968 XXXX XXXX to rebook.,en,ham,delivery,en_ham_007
+Courier: nobody answered for Hamed at your Ibri address this morning. Ring +968 XXXX XXXX to rebook.,en,ham,delivery,en_ham_007
+Your electricity bill for September is 32.750 OMR. Please pay at pay.example/bill by 30 Oct to avoid a late fee.,en,ham,bill,en_ham_008
+Your electricity bill for August comes to 47.100 OMR. Kindly settle it at pay.example/power by 28 Sep to avoid a late fee.,en,ham,bill,en_ham_008
+Water bill issued: OMR 9.400. Due 5 Nov. pay.example/w,en,ham,bill,en_ham_009
+"Water bill this month: OMR 12.850, due 7 Dec. pay.example/wtr",en,ham,bill,en_ham_009
+"Dr. Priya's dental clinic in Nizwa: your appointment is tomorrow at 10:30. Reply YES to confirm your appointment. To reschedule, call XXXX XXXX.",en,ham,health,en_ham_010
+"Dr. Joseph's eye clinic in Rustaq: your check-up is on Monday at 16:00. Reply YES to confirm your appointment. To change the time, call XXXX XXXX.",en,ham,health,en_ham_010
+"Dear Fatma, your lab results are ready. View them securely at https://health.example/results",en,ham,health,en_ham_011
+"Dear Joseph, your blood test results are available. Open them securely at https://health.example/lab",en,ham,health,en_ham_011
+"Dear parent, school will close EARLY at 11:00 on Thursday for a staff meeting. Buses leave at the new time. Office: XXXX XXXX",en,ham,study,en_ham_012
+"Dear parent, classes will end EARLY at 12:00 on Wednesday for teacher training. Buses run early. Office: XXXX XXXX",en,ham,study,en_ham_012
+Second-term fees of 420 OMR are due by 15 Nov. Pay at school.example/fees or at the school office.,en,ham,study,en_ham_013
+Third-term fees of 385 OMR must be paid by 10 Mar. Use school.example/pay or visit the school office.,en,ham,study,en_ham_013
+"Your ID card expires on 12 Dec. To avoid a late fine, renew online at https://gov.example/id-renew before that date or visit any service centre with a photo.",en,ham,government,en_ham_014
+"Your passport expires on 4 Feb. To avoid travel delays, apply for renewal at https://gov.example/passport well before then or visit a service centre in Seeb.",en,ham,government,en_ham_014
+Vehicle registration renewal is due this month. Book an inspection in Rustaq or renew at gov.example/vehicle,en,ham,government,en_ham_015
+Vehicle licence renewal is due within 30 days. Book a test slot in Seeb or renew at gov.example/mulkiya,en,ham,government,en_ham_015
+Residence permit renewal for Priya (application 55102) is approved. Collect the card from the service centre. Enquiries: +968 XXXX XXXX,en,ham,government,en_ham_016
+Residence permit renewal for Anil (application 61847) is complete. Collect the new card from the service centre. Enquiries: +968 XXXX XXXX,en,ham,government,en_ham_016
+EID MUBARAK! Our Muscat branches open 4 PM to 12 AM during Eid. Hours: shop.example/eid,en,ham,shopping,en_ham_017
+EID MUBARAK! Our Salalah stores open 5 PM to 1 AM over the Eid break. See shop.example/hours,en,ham,shopping,en_ham_017
+Ramadan offer for members: 20% OFF home appliances until 30 Mar. Shop at https://shop.example/ramadan Reply STOP to opt out.,en,ham,shopping,en_ham_018
+Ramadan deal for loyalty members: 15% OFF kitchenware until 28 Mar. Browse https://shop.example/r-deals Reply STOP to opt out.,en,ham,shopping,en_ham_018
+Congratulations Huda! Your photo won 2nd place in the library photo contest. Collect your prize of OMR 50 at the front desk.,en,ham,prize,en_ham_019
+Congratulations Omar! Your essay took 1st place in the school writing contest. Your prize of OMR 75 is at the main office.,en,ham,prize,en_ham_019
+"Dear Rahul, you are invited to an interview for the Accountant role on Sunday at 9:00 at our Sohar office. Reply YES to confirm or call XXXX XXXX.",en,ham,job,en_ham_020
+"Dear Maryam, we invite you to interview for the HR Officer post on Tuesday at 11:00 at our Muscat office. Reply YES to confirm or call XXXX XXXX.",en,ham,job,en_ham_020
+You have used 80% of your monthly data. Add more in the app or call +968 XXXX XXXX.,en,ham,telecom,en_ham_021
+You have used 90% of your mobile data allowance. Top up in the app or call +968 XXXX XXXX.,en,ham,telecom,en_ham_021
+Your mobile bill of 14.300 OMR is ready in your account. View it at telco.example/bill,en,ham,telecom,en_ham_022
+Your home internet bill of 25.000 OMR is ready in your account. See details at telco.example/inv,en,ham,telecom,en_ham_022
+"Your online banking password was changed on 21 Oct at 08:14. If this was not you, call +968 XXXX XXXX now.",en,ham,bank,en_ham_023
+"Your mobile banking PIN was reset on 9 Nov at 19:42. If you did not do this, call +968 XXXX XXXX right away.",en,ham,bank,en_ham_023
+"Salary of OMR 1,250.000 credited to your account on 24 Oct. Your updated balance and full statement are available in the bank app or at bank.example/account",en,ham,bank,en_ham_024
+Monthly salary of OMR 860.000 was credited to your account today. You can view the new balance and your statement in the bank app or at bank.example/stmt,en,ham,bank,en_ham_024
+Delivery code for your order: 5931. Give it to the driver ONLY when the parcel is in your hands.,en,ham,delivery,en_ham_025
+Your delivery PIN is 2847. Share it with the driver ONLY after you receive the package.,en,ham,delivery,en_ham_025
+Order #40217 has shipped 📦 Expected delivery Tuesday. Track: https://shop.example/t/40217,en,ham,shopping,en_ham_026
+Order #58306 is on its way 📦 Expected arrival Sunday. Track: https://shop.example/t/58306,en,ham,shopping,en_ham_026
+Your prescription is ready for pickup. Pickup code: 3381.,en,ham,health,en_ham_027
+Your medicine refill is ready. Collection code: 6152.,en,ham,health,en_ham_027
+The exam timetable for the first semester is now published at https://uni.example/exams,en,ham,study,en_ham_028
+The final exam schedule for the spring semester is now online at https://uni.example/finals,en,ham,study,en_ham_028
+"Appointment confirmed: Labour office, Ibri, 3 Nov at 9:00. Bring your original documents. Map: gov.example/ibri",en,ham,government,en_ham_029
+"Appointment confirmed: Civil status office, Buraimi, 17 Nov at 10:30. Bring original papers. Map: gov.example/buraimi",en,ham,government,en_ham_029
+"New login to your bank app from a new device. If it was you, no action is needed. If it was not you, call XXXX XXXX.",en,ham,bank,en_ham_030
+"A new phone has signed in to your bank app. If that was you, ignore this message. If it was not you, call XXXX XXXX.",en,ham,bank,en_ham_030
+Book fair raffle: ticket No. 417 that you bought in Seeb won a tablet! Collect it at the fair office by 2 Nov with your ticket. There is nothing to pay.,en,ham,prize,en_ham_031
+Autumn festival raffle: ticket No. 238 that you bought in Salalah won a bicycle! Collect it at the festival office by 9 Nov with your ticket. Nothing to pay.,en,ham,prize,en_ham_031
+A traffic fine of OMR 15 was recorded on your vehicle. Details at https://gov.example/fines,en,ham,government,en_ham_032
+A parking fine of OMR 10 was issued to your vehicle. See details at https://gov.example/violations,en,ham,government,en_ham_032
+Loan update: your application is under review. Status: bank.example/loan,en,ham,loan,en_ham_033
+Loan update: your top-up request is being processed. bank.example/topup,en,ham,loan,en_ham_033
+"Your car insurance renews on 1 Nov. Premium: 210 OMR, charged to your account. Questions? Call XXXX XXXX.",en,ham,bill,en_ham_034
+"Your health insurance plan renews on 15 Jan. Premium: 340 OMR, taken from your account. Questions? Phone XXXX XXXX.",en,ham,bill,en_ham_034
+"Bus ticket confirmed: Muscat to Sur, 26 Oct, 7:00, seat 14. Fare paid: OMR 4. Have a safe trip!",en,ham,shopping,en_ham_035
+"Bus ticket confirmed: Muscat to Salalah, 2 Nov, 21:00, seat 31. Fare: OMR 8. Enjoy the journey!",en,ham,shopping,en_ham_035
+can u send the 12 OMR for dinner last night? thx!,en,ham,personal,en_ham_036
+could u transfer the 8 OMR for the taxi? thx!,en,ham,personal,en_ham_036
+"Ahmed, you still owe me 20 OMR from the concert tickets 😅 no rush, end of month is fine",en,ham,personal,en_ham_037
+"Grace, you still owe me 15 OMR from the museum trip 😅 no hurry, next week is fine",en,ham,personal,en_ham_037
+"Call me when u finish work, Yusuf.",en,ham,personal,en_ham_038
+"Ring me once ur out of class, Noor.",en,ham,personal,en_ham_038
+"Dinner at grandma's in Nizwa on Friday, everyone is coming! 🍲",en,ham,personal,en_ham_039
+"Lunch at auntie's in Sur on Saturday, the whole family will be there! 🍲",en,ham,personal,en_ham_039
+"Sami, Grace moved the meeting to 2 pm. Bring the printed report.",en,ham,work,en_ham_040
+"Lina, Anil pushed the meeting to 11 am, room 3. Bring the printouts.",en,ham,work,en_ham_040
+"Maria here, I'm stuck in traffic near Seeb because of an accident. Start the meeting without me, I'll join in 15 min.",en,ham,work,en_ham_041
+"Rahul here, the road near Sohar is completely jammed after the rain. Go ahead and start, I'll be there in about 20 min.",en,ham,work,en_ham_041
+Look at this video of the turtles on the beach last night https://vid.example/t8Qz,en,ham,personal,en_ham_042
+Check out this clip of the dolphins from our boat trip https://vid.example/d2Lp,en,ham,personal,en_ham_042
+can u pick up bread on ur way home? reply when you can,en,ham,personal,en_ham_043
+could u grab some milk on the way back? reply when you see this,en,ham,personal,en_ham_043
+Wedding photos are up! photos.example/a/wed22,en,ham,personal,en_ham_044
+Graduation pics are online! photos.example/a/grad5,en,ham,personal,en_ham_044
+"HAPPY BIRTHDAY Sara!! 🎉 Have the best day, see you tonight",en,ham,personal,en_ham_045
+"HAPPY BIRTHDAY Ali!! 🎉 Enjoy your day, see you at dinner",en,ham,personal,en_ham_045
+"Joseph, can you cover my shift on Saturday? I'll take your Tuesday one. Reply when you can.",en,ham,work,en_ham_046
+"Layla, could you swap shifts with me on Monday? I'll do your Thursday one. Reply when you can.",en,ham,work,en_ham_046
+Hospital HR: your interview is on Mon at 10:00 in Sur. Bring your CV.,en,ham,job,en_ham_047
+Hospital HR: your interview is on Wed at 13:00 in Seeb. Bring your ID.,en,ham,job,en_ham_047
+did i leave my charger at ur place?,en,ham,personal,en_ham_048
+did i forget my sunglasses in ur car?,en,ham,personal,en_ham_048
+"Leaving at 6:45 tmrw. If u want a ride to Sohar, be at the gate on time.",en,ham,work,en_ham_049
+"Heading out at 7:15 tmrw. If u need a lift to Nizwa, wait at the main gate.",en,ham,work,en_ham_049
+i'm at the cafe: maps.example/p/cafe21,en,ham,personal,en_ham_050
+"we're at the park, pin here: maps.example/p/park7",en,ham,personal,en_ham_050
+"The plumber's number is +968 XXXX XXXX. He fixed my kitchen sink really fast and only charged 15 OMR, so I recommend him.",en,ham,personal,en_ham_051
+"The AC technician's number is +968 XXXX XXXX. He sorted out our noisy unit in an hour and charged 20 OMR, very honest guy.",en,ham,personal,en_ham_051
+"Study group tomorrow at the library, 4 pm. Ms. Grace wants your notes for chapter 6, Noor.",en,ham,study,en_ham_052
+"Revision session on Sunday in room B, 5 pm. Mr. Joseph wants your answers for unit 3, Adam.",en,ham,study,en_ham_052
+"Anil, football at 8 tonight? We need ONE more player!",en,ham,personal,en_ham_053
+"Khalid, padel at 9 tonight? We're short ONE player!",en,ham,personal,en_ham_053
+"Trip plan: we leave for Salalah on Wed, 3 nights. Each person pays OMR 45 for the house stay.example/h12 Send it to Khalid.",en,ham,personal,en_ham_054
+"Trip plan: we drive to Khasab on Thu, 2 nights. Everyone pays OMR 35 for the chalet stay.example/c9 Send it to Mariam.",en,ham,personal,en_ham_054
+"Hi, this is your neighbour Grace from flat 3. Your car lights are still on!",en,ham,personal,en_ham_055
+"Hello, it's Hassan from next door. Your gate has been open since this morning!",en,ham,personal,en_ham_055
+Shared the draft budget here https://docs.example/d/q4-budget please add your comments on the travel costs before Thursday,en,ham,work,en_ham_056
+Uploaded the event plan here https://docs.example/d/launch-plan can you review the venue and catering parts by Sunday,en,ham,work,en_ham_056
+"Dad's tip, Huda: soak the rice for 30 minutes first, then cook on low heat. Don't forget the cardamom.",en,ham,personal,en_ham_057
+"Uncle Said says, Yusuf: marinate the chicken for 2 hours first, then grill slowly. Don't forget the lemon.",en,ham,personal,en_ham_057
+congrats on the new job!! SO proud of u 👏,en,ham,personal,en_ham_058
+well done on passing ur exams!! SO proud 👏,en,ham,personal,en_ham_058
+I'm on leave next week. For urgent things call Rahul on +968 XXXX XXXX.,en,ham,work,en_ham_059
+I'm off until Sunday. For anything urgent ring Maria on +968 XXXX XXXX.,en,ham,work,en_ham_059
+"Eid Mubarak to you and the family from Manchester! 🌙 My UK number is +44 XXXX XXXXXX, call us on the second day.",en,ham,personal,en_ham_060
+"Eid Mubarak to all of you from London! 🌙 My new UK number is +44 XXXX XXXXXX, call me on the third day of Eid.",en,ham,personal,en_ham_060
+"The mall has a SALE on kids' shoes, 50% OFF until Saturday https://mall.example/sale Want to go Thursday after work?",en,ham,shopping,en_ham_061
+"The shop near our house has a SALE on school bags, 40% OFF this week https://mall.example/bags Shall we go Friday evening?",en,ham,shopping,en_ham_061
+did the school send the trip form? Lina says it's due tmrw,en,ham,study,en_ham_062
+did u get the science fair letter? Adam says it's due Sunday,en,ham,study,en_ham_062
+"Priya, the client moved the deadline to Sunday. Can we split the slides? I'll do the numbers part and you take the summary. Thanks!",en,ham,work,en_ham_063
+"Anil, the manager wants the report by Tuesday now. Can we divide it? I'll write the charts section and you do the intro. Thanks!",en,ham,work,en_ham_063
+"guess what, my raffle ticket at the school fair won a bike!! 🚲 results r at events.example/fair, collecting it Sat",en,ham,prize,en_ham_064
+"guess what, my entry in the work photo contest got 2nd place!! 🏆 results r at events.example/photo, collecting it Sun",en,ham,prize,en_ham_064
+"running late, Omar. ordered food for the kids, pls set the table 🍕",en,ham,personal,en_ham_065
+"stuck at work, Sara. ordered dinner for the kids, pls keep it warm 🍕",en,ham,personal,en_ham_065
+"Sent you OMR 30 for the gift, check your account!",en,ham,personal,en_ham_066
+"Just transferred OMR 18 for the cake, have a look!",en,ham,personal,en_ham_066
+"Rent is due on the 1st, ur share is 125 OMR. Transfer whenever u can and pls send me a screenshot so I can tell the landlord before the weekend.",en,ham,personal,en_ham_067
+"Rent is due on the 5th, ur part is 140 OMR. Pay when u can and pls send me the receipt so I can pass it to the owner by Thursday evening.",en,ham,personal,en_ham_067
+That repair shop in Buraimi fixed my screen in an hour. Their number: XXXX XXXX,en,ham,personal,en_ham_068
+The tailor in Rustaq finished my dress in two days. His number: XXXX XXXX,en,ham,personal,en_ham_068
+"The new door code for the storeroom is 7720, please don't post it in the group.",en,ham,work,en_ham_069
+"The meeting room lock code is now 4416, keep it off the group chat please.",en,ham,work,en_ham_069
+"We booked the boat trip in Khasab for Friday 9 AM. Dad wants u all at the harbour by 8:30, so pls DON'T be late this time!",en,ham,personal,en_ham_070
+"We reserved the dhow cruise in Sur for Saturday 4 PM. Mum wants all of us at the pier by 3:30, so pls DON'T be late again!",en,ham,personal,en_ham_070
+"Dear Hassan, your profile access is limited until you confirm your details at https://profile-check.example/acc",en,spam,fraud_phishing,en_spam_001
+"Dear Noor, your profile access is restricted until you confirm your details at https://profile-check.example/review",en,spam,fraud_phishing,en_spam_001
+"Hey, is this you in the photo? lnk.example/p7Qx",en,spam,fraud_phishing,en_spam_002
+"Hey, is this you in this video? lnk.example/v2Tm",en,spam,fraud_phishing,en_spam_002
+NOTICE: your mobile wallet will be suspended today. Update your ID at https://wallet-kyc.example/id,en,spam,fraud_phishing,en_spam_003
+NOTICE: your mobile wallet will be frozen tonight. Update your ID at https://wallet-kyc.example/kyc,en,spam,fraud_phishing,en_spam_003
+"Hi Priya, the address on your parcel looks wrong, can you fix it before tomorrow? ship-fix.example/addr",en,spam,fraud_phishing,en_spam_004
+"Hi Rahul, the address on your parcel seems wrong, can you fix it before Sunday? ship-fix.example/fix",en,spam,fraud_phishing,en_spam_004
+A traffic fine of OMR 15 is recorded on your vehicle in Muscat. Pay by card at https://fine-settle.example/pay within 48 hours.,en,spam,fraud_phishing,en_spam_005
+A traffic fine of OMR 20 is registered on your vehicle in Sohar. Pay by card at https://fine-settle.example/card within 72 hours.,en,spam,fraud_phishing,en_spam_005
+Send us your login password today to keep your email active.,en,spam,fraud_phishing,en_spam_006
+Send us your app passcode today to keep your mailbox working.,en,spam,fraud_phishing,en_spam_006
+"Dear Mariam, unpaid electricity balance on your account. Power will be cut in 2 hours unless you pay by card on +968 XXXX XXXX.",en,spam,fraud_phishing,en_spam_007
+"Dear Salim, unpaid water balance on your account. Supply will be cut in 3 hours unless you pay by card on +968 XXXX XXXX.",en,spam,fraud_phishing,en_spam_007
+Your mobile provider is giving 50 GB free data this month 🎁 Log in with your number and password here: free-data.example/free,en,spam,fraud_phishing,en_spam_008
+Your mobile provider is giving 30 GB free data this week 🎁 Sign in with your number and password here: free-data.example/gift,en,spam,fraud_phishing,en_spam_008
+"IMPORTANT: for security reasons, please reply with your full card number and expiry date.",en,spam,fraud_phishing,en_spam_009
+"IMPORTANT: for verification purposes, please reply with your card number and the code on the back.",en,spam,fraud_phishing,en_spam_009
+"Huda, new email sign-in from Salalah. Verify at https://mail-secure.example/check within 1 hour or your account will be deleted.",en,spam,fraud_phishing,en_spam_010
+"Saeed, new email sign-in from Nizwa. Confirm at https://mail-secure.example/s2 within 1 hour or your account will be deleted.",en,spam,fraud_phishing,en_spam_010
+A code was sent to your phone by error. Enter it at https://code-cancel.example/c1 to cancel the request.,en,spam,fraud_otp,en_spam_011
+A code reached your number by mistake. Enter it at https://code-cancel.example/x7 to stop the transfer.,en,spam,fraud_otp,en_spam_011
+"To finish registering your number for the free data offer, please reply with the code you just received by SMS. Request ID 7731.",en,spam,fraud_otp,en_spam_012
+"To complete registration of your line for the free minutes offer, please reply with the code you just received by SMS. Request ID 5208.",en,spam,fraud_otp,en_spam_012
+"Anil, I'm in Ibri buying ur sofa. The site sent u a code, text it to me so I can pay",en,spam,fraud_otp,en_spam_013
+"Grace, I'm in Sur buying ur dining table. The site sent u a code, text it to me so I can pay",en,spam,fraud_otp,en_spam_013
+"Your marketplace profile will be closed for inactivity. To keep it, forward the code you receive shortly to +968 XXXX XXXX.",en,spam,fraud_otp,en_spam_014
+"Your shopping profile will be closed for inactivity. To keep it open, forward the code you get soon to +968 XXXX XXXX.",en,spam,fraud_otp,en_spam_014
+URGENT pls send me the code that just came to u,en,spam,fraud_otp,en_spam_015
+URGENT pls send me the code u just got by SMS,en,spam,fraud_otp,en_spam_015
+Security check 3318: reply with the code sent to your phone to keep your line active.,en,spam,fraud_otp,en_spam_016
+Security check 7096: reply with the code sent to your mobile to keep your profile active.,en,spam,fraud_otp,en_spam_016
+"Khalid, we're adding you to the Sur parents group. Enter the 6-digit SMS code at grp-join.example/s4 to finish.",en,spam,fraud_otp,en_spam_017
+"Fatma, we're adding you to the Seeb neighbours group. Enter the 6-digit SMS code at grp-join.example/n9 to complete the setup.",en,spam,fraud_otp,en_spam_017
+Customs notice: your parcel is held awaiting a duty of 1.750 OMR. Pay at https://customs-duty.example/fee within 24 hours or it returns to sender.,en,spam,fraud_fee,en_spam_018
+Customs notice: your parcel is held pending a duty of 2.300 OMR. Pay at https://customs-duty.example/duty within 24 hours or it goes back to sender.,en,spam,fraud_fee,en_spam_018
+"Layla, your package is stuck! Just OMR 2 and it's delivered tomorrow: pkg-release.example/r4",en,spam,fraud_fee,en_spam_019
+"Omar, your package is on hold! Just OMR 3 and it's delivered today: pkg-release.example/t8",en,spam,fraud_fee,en_spam_019
+Shipment on hold: pay the 1.200 OMR handling fee at https://hold-parcel.example/h1,en,spam,fraud_fee,en_spam_020
+Shipment on hold: pay the 0.900 OMR redelivery fee at https://hold-parcel.example/h2,en,spam,fraud_fee,en_spam_020
+"parcel for u at the Sohar depot, small fee to release it. msg +968 XXXX XXXX",en,spam,fraud_fee,en_spam_021
+"parcel waiting for u at the Ibri depot, tiny fee to release it. msg +968 XXXX XXXX",en,spam,fraud_fee,en_spam_021
+"Quarterly draw reference 48213: a processing fee of OMR 5 is due at prize-desk.example/fee before your OMR 2,000 prize is released.",en,spam,fraud_fee,en_spam_022
+"Annual draw reference 70264: a processing fee of OMR 7 is due at prize-desk.example/release before your OMR 3,000 prize is paid.",en,spam,fraud_fee,en_spam_022
+Ramadan food basket ready to ship! Just pay the OMR 3 delivery FEE: ramadan-box.example/k2,en,spam,fraud_fee,en_spam_023
+Ramadan gift box ready to ship! Just pay the OMR 4 release FEE: ramadan-box.example/m5,en,spam,fraud_fee,en_spam_023
+Your import papers are incomplete. Reply with your card details to pay the clearance charge.,en,spam,fraud_fee,en_spam_024
+Your shipment papers are pending. Reply with your card details to settle the clearance charge.,en,spam,fraud_fee,en_spam_024
+Hi Nasser 📦 your order is at the warehouse and needs a 1.500 OMR storage charge. Send your card number and we'll dispatch it,en,spam,fraud_fee,en_spam_025
+Hi Badriya 📦 your order is at the warehouse and needs a 2.500 OMR storage charge. Send your card number and we'll deliver it,en,spam,fraud_fee,en_spam_025
+A registered item for you in Rustaq awaits a clearance payment. Call XXXX XXXX to arrange it.,en,spam,fraud_fee,en_spam_026
+A registered item for you in Khasab awaits a release payment. Call XXXX XXXX to arrange it.,en,spam,fraud_fee,en_spam_026
+"Ahmed here, can u send 30 OMR to my cousin's account now? can't talk, will return tonight",en,spam,fraud_impersonation,en_spam_027
+"Sara here, can u send 25 OMR to my sister's account now? can't talk, will return tomorrow",en,spam,fraud_impersonation,en_spam_027
+"Hi, it's Rahul from the office. I'm stuck at the pharmacy and my card isn't working, could you send a small bank transfer? I'll text the details",en,spam,fraud_impersonation,en_spam_028
+"Hi, it's Ali from the office. I'm stuck at the petrol station and my card isn't working, could you send a quick bank transfer? I'll text the details",en,spam,fraud_impersonation,en_spam_028
+"Good morning, this is Muna from finance. Please transfer OMR 850 to the new supplier IBAN I send shortly; the manager approved.",en,spam,fraud_impersonation,en_spam_029
+"Good morning, this is Aisha from payroll. Please transfer OMR 640 to the new supplier IBAN I share shortly; the manager approved.",en,spam,fraud_impersonation,en_spam_029
+Bro I'm in a tight spot! Can you send money to this account? Can't call now,en,spam,fraud_impersonation,en_spam_030
+Sis I'm in a tight spot! Can you transfer money to this account? Can't talk now,en,spam,fraud_impersonation,en_spam_030
+"It's Yusuf, lost my wallet in Nizwa, pls send 40 OMR to my friend's e-wallet, will pay back Sunday",en,spam,fraud_impersonation,en_spam_031
+"It's Hamed, lost my wallet in Buraimi, pls send 35 OMR to my friend's e-wallet, will pay back Monday",en,spam,fraud_impersonation,en_spam_031
+"Dear colleague, the manager asked me to collect contributions for a farewell gift. Kindly transfer your share to the account I will send next.",en,spam,fraud_impersonation,en_spam_032
+"Dear colleague, the manager asked me to collect contributions for the team dinner. Kindly transfer your share to the account I will send next.",en,spam,fraud_impersonation,en_spam_032
+"Can you do me a favour 🙏 transfer a little to my friend's bank card, I'll pay you back on payday",en,spam,fraud_impersonation,en_spam_033
+"Can you do me a favour 🙏 transfer a bit to my brother's bank card, I'll return it at the weekend",en,spam,fraud_impersonation,en_spam_033
+CONGRATULATIONS. Your number won our anniversary draw for a smartphone. Claim it by Friday at https://claim-gift.example/win,en,spam,prize,en_spam_034
+CONGRATULATIONS. Your number won our anniversary draw for a laptop. Claim it by Thursday at https://claim-gift.example/gift,en,spam,prize,en_spam_034
+u won a free tablet! 🎉 claim: win-free.example/t3,en,spam,prize,en_spam_035
+u won a free laptop! 🎉 claim: win-free.example/l8,en,spam,prize,en_spam_035
+"Dear Grace, you have been chosen to receive a shopping voucher worth OMR 100. Reply CLAIM to accept.",en,spam,prize,en_spam_036
+"Dear Anil, you have been chosen to receive a shopping voucher worth OMR 150. Reply CLAIM to accept.",en,spam,prize,en_spam_036
+"Lucky winner from Seeb! ur number won the weekend draw, call +968 XXXX XXXX to collect",en,spam,prize,en_spam_037
+"Lucky winner from Buraimi! ur number won the monthly draw, call +968 XXXX XXXX to collect",en,spam,prize,en_spam_037
+Eid gift voucher worth OMR 50 for selected numbers! Activate it with your card details at https://eid-gift.example/v5,en,spam,prize,en_spam_038
+Eid gift voucher worth OMR 30 for chosen numbers! Activate it with your card details at https://eid-gift.example/q2,en,spam,prize,en_spam_038
+"Guess what Zainab, your number won the summer raffle! 500 OMR cash is yours. Call +44 XXXX XXXXXX with your full name and ID number",en,spam,prize,en_spam_039
+"Guess what Rashid, your number won the holiday raffle! 300 OMR cash is yours. Call +44 XXXX XXXXXX with your full name and ID number",en,spam,prize,en_spam_039
+"Dear Talal, winning ticket 52917 is registered to your number. Reply with your full name to claim.",en,spam,prize,en_spam_040
+"Dear Huda, winning ticket 63048 is linked to your number. Reply with your full name to claim it.",en,spam,prize,en_spam_040
+"Pre-approved loan of up to OMR 10,000, no salary transfer and no guarantor. Approval in one hour at https://quick-loan.example/apply",en,spam,loan,en_spam_041
+"Pre-approved loan of up to OMR 8,000, no salary transfer and no guarantor. Approval in two hours at https://quick-loan.example/now",en,spam,loan,en_spam_041
+Need cash FAST? Loans with no papers! msg XXXX XXXX,en,spam,loan,en_spam_042
+Need money FAST? Loans with no documents! msg XXXX XXXX,en,spam,loan,en_spam_042
+"Instant financing for all nationalities, no credit check required. Contact +968 XXXX XXXX.",en,spam,loan,en_spam_043
+"Quick financing for residents and citizens, no credit history needed. Contact +968 XXXX XXXX.",en,spam,loan,en_spam_043
+"Hi Saeed! We approve loans today even on a low salary, visit our office in Khasab or call XXXX XXXX",en,spam,loan,en_spam_044
+"Hi Amal! We approve loans today even on a small salary, visit our office in Muscat or call XXXX XXXX",en,spam,loan,en_spam_044
+"Clear all your debts in one step! Low monthly payments, quick approval and no bank statement needed. Reply with your monthly income to receive an offer.",en,spam,loan,en_spam_045
+"Combine all your loans in one step! Low monthly payments, fast approval and no bank statement needed. Reply with your monthly income to get an offer.",en,spam,loan,en_spam_045
+"Get 3,000 OMR in your bank TODAY, just pay a small file fee first: cash-now.example/fast",en,spam,loan,en_spam_046
+"Get 2,000 OMR in your bank TODAY, just pay a small admin fee first: cash-now.example/go",en,spam,loan,en_spam_046
+"Dear Rahul, your profile is shortlisted for a remote data entry role paying 25 OMR per day. Please share your ID copy and bank details to begin.",en,spam,job,en_spam_047
+"Dear Maria, your profile is shortlisted for a remote typing role paying 30 OMR per day. Please share your ID copy and bank details to start.",en,spam,job,en_spam_047
+Earn from home in 1 hour a day! msg +968 XXXX XXXX,en,spam,job,en_spam_048
+Make money at home in 2 hours a day! msg +968 XXXX XXXX,en,spam,job,en_spam_048
+"Part-time job: rate products online, earn up to OMR 15 daily. Join at https://task-jobs.example/start",en,spam,job,en_spam_049
+"Part-time job: review products online, earn up to OMR 12 daily. Join at https://task-jobs.example/join",en,spam,job,en_spam_049
+"Hiring now 💼 easy work from ur phone, up to 20 OMR a day! text +968 XXXX XXXX",en,spam,job,en_spam_050
+"Hiring now 💼 simple work from ur phone, up to 18 OMR a day! text +968 XXXX XXXX",en,spam,job,en_spam_050
+A hotel in Salalah is hiring reception staff to start now. A registration fee is required to secure your interview slot; reply for payment details.,en,spam,job,en_spam_051
+A hotel in Muscat is hiring front desk staff to start now. A registration fee is required to book your interview slot; reply for payment details.,en,spam,job,en_spam_051
+"Grace, my friend is hiring for simple online tasks, good weekly pay. Join here: chat-tasks.example/tasks",en,spam,job,en_spam_052
+"Joseph, my friend is hiring for easy online tasks, good weekly pay. Join here: chat-tasks.example/work",en,spam,job,en_spam_052
+We reviewed your CV and wish to offer you a position. Pay OMR 10 to reserve it: hire-desk.example/r1,en,spam,job,en_spam_053
+We reviewed your CV and would like to offer you a role. Pay OMR 12 to confirm it: hire-desk.example/k4,en,spam,job,en_spam_053
+MEGA SALE 70% off everything! 🔥 https://cheap-deals.example/s,en,spam,promo,en_spam_054
+MEGA SALE 60% off all items! 🔥 https://cheap-deals.example/m,en,spam,promo,en_spam_054
+New villas in Muscat with flexible payment plans. Book a viewing at villa-offers.example/vw,en,spam,promo,en_spam_055
+New villas in Sohar with flexible payment plans. Book a visit at villa-offers.example/tour,en,spam,promo,en_spam_055
+"cheapest perfumes in town, prices on XXXX XXXX",en,spam,promo,en_spam_056
+"cheapest watches in town, catalogue on XXXX XXXX",en,spam,promo,en_spam_056
+Exclusive offer for selected numbers: use code 8842 for 40% off any order this week at https://mega-outlet.example/deal,en,spam,promo,en_spam_057
+Exclusive offer for selected numbers: use code 5519 for 35% off any order this month at https://mega-outlet.example/sale,en,spam,promo,en_spam_057
+"Weight loss tea, results in 7 days guaranteed, order on +968 XXXX XXXX",en,spam,promo,en_spam_058
+"Weight loss tea, results in 14 days or your money back, order on +968 XXXX XXXX",en,spam,promo,en_spam_058
+"Gym membership for 12 months at only OMR 99. Limited places available, register at fit-club.example/join",en,spam,promo,en_spam_059
+"Gym membership for 12 months at only OMR 89. Limited places available, sign up at fit-club.example/offer",en,spam,promo,en_spam_059
+"Grand opening in Nizwa this weekend! FREE gifts for the first 100 visitors, show code 4410 at the door. Map: grand-opening.example/nz",en,spam,promo,en_spam_060
+"Grand opening in Rustaq this weekend! FREE gifts for the first 50 visitors, show code 3925 at the door. Map: grand-opening.example/rq",en,spam,promo,en_spam_060

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380" font-family="system-ui, Segoe UI, Tahoma, sans-serif">
+  <rect width="860" height="380" fill="#f7f9fb"/>
+  <!-- Traditional programming (outside AI) -->
+  <rect x="12" y="120" width="186" height="150" rx="10" fill="none" stroke="#9a9a96" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="105" y="160" text-anchor="middle" font-size="15" font-weight="600" fill="#2a78d6">1. Traditional</text>
+  <text x="105" y="179" text-anchor="middle" font-size="15" font-weight="600" fill="#2a78d6">programming</text>
+  <text x="105" y="204" text-anchor="middle" font-size="12" fill="#52514e">rules + data → answers</text>
+  <text x="105" y="222" text-anchor="middle" font-size="12" fill="#52514e">no learning, no inference</text>
+  <text x="105" y="256" text-anchor="middle" font-size="11" font-style="italic" fill="#7a7975">baseline for comparison</text>
+  <!-- AI -->
+  <ellipse cx="530" cy="195" rx="320" ry="170" fill="none" stroke="#52514e" stroke-width="2"/>
+  <text x="530" y="48" text-anchor="middle" font-size="18" font-weight="600" fill="#0b0b0b">Artificial Intelligence</text>
+  <text x="530" y="68" text-anchor="middle" font-size="12" fill="#52514e">systems that learn or infer from data how to produce outputs</text>
+  <!-- Symbolic AI (context only) -->
+  <text x="305" y="187" text-anchor="middle" font-size="12" fill="#7a7975">Symbolic AI</text>
+  <text x="305" y="203" text-anchor="middle" font-size="11" fill="#7a7975">inference over a knowledge base</text>
+  <text x="305" y="219" text-anchor="middle" font-size="11" font-style="italic" fill="#7a7975">(not in this experiment)</text>
+  <!-- ML -->
+  <ellipse cx="600" cy="210" rx="200" ry="130" fill="none" stroke="#eb6834" stroke-width="2"/>
+  <text x="510" y="130" text-anchor="middle" font-size="15" font-weight="600" fill="#eb6834">Machine Learning</text>
+  <text x="510" y="148" text-anchor="middle" font-size="12" fill="#52514e">data + answers → rules</text>
+  <text x="480" y="210" text-anchor="middle" font-size="13" fill="#0b0b0b">2. Naive Bayes</text>
+  <text x="480" y="226" text-anchor="middle" font-size="12" fill="#52514e">human picks features</text>
+  <!-- DL -->
+  <ellipse cx="670" cy="230" rx="110" ry="90" fill="none" stroke="#1baf7a" stroke-width="2"/>
+  <text x="670" y="170" text-anchor="middle" font-size="15" font-weight="600" fill="#1baf7a">Deep Learning</text>
+  <text x="670" y="188" text-anchor="middle" font-size="12" fill="#52514e">learns features too</text>
+  <text x="670" y="218" text-anchor="middle" font-size="13" fill="#0b0b0b">3. Transformer</text>
+  <text x="670" y="236" text-anchor="middle" font-size="12" fill="#52514e">fine-tuned on our data</text>
+  <text x="670" y="268" text-anchor="middle" font-size="13" fill="#b07800">4. LLM zero-shot</text>
+  <text x="670" y="284" text-anchor="middle" font-size="12" fill="#52514e">not trained on our data</text>
+</svg>

@@ -1,0 +1,14 @@
+# Approaches 1 and 2 (rules + Naive Bayes)
+pandas
+numpy
+scikit-learn
+matplotlib
+ipykernel
+
+# Approach 3 (Transformer)
+torch
+transformers
+
+# Optional
+ipywidgets      # live text box in section 8
+# LLM_BACKEND = "deepseek" needs no extra package (plain HTTPS request)

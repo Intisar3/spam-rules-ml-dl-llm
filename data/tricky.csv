@@ -1,0 +1,41 @@
+text,lang,label,why_tricky
+ر.ب.ح.ت جائزة كبيرة، كلمني بسرعة,ar,spam,تمويه بالنقاط بين الحروف
+ق ر ض فوري بدون كفيل، ر ا س ل ن ي الحين,ar,spam,تمويه بالمسافات بين الحروف
+"mabrook, rbe7t 1000 riyal! ersel ramz el ta2keed 3ashan n7awel lek el mablagh",ar,spam,عربيزي بأرقام بدل الحروف
+"Salam 5alti, hatha raqmi ljdeed, el 9adeem 5irib. 7awleeli 50 riyal 3ala hal ra9am daroori",ar,spam,عربيزي وانتحال قريبة برقم جديد
+السلام عليكم، معك موظف البنك، نحتاج الرمز اللي وصلك عشان نوقف العملية,ar,spam,انتحال موظف بنك يطلب الرمز بلا رابط
+يا هلا والله، هذي خالتك أم سالم، رقمي الجديد، حوّلي لي 30 ريال ضروري,ar,spam,انتحال قريبة برقم جديد وطلب تحويل
+عميلنا العزيز، تم إيقاف بطاقتك مؤقتاً. لإعادة التفعيل أدخل بياناتك عبر bank-secure-login.example,ar,spam,نطاق شبيه بنطاق البنك
+لديك مبلغ مسترد 45 ر.ع.، امسح الرمز المربع في الصورة المرفقة وأدخل رقم بطاقتك السري لاستلامه,ar,spam,احتيال بالرمز المربع بلا رابط
+استثمر 100 ريال في العملات الرقمية واربح 3000 خلال أسبوع، أرباح مضمونة، راسلني,ar,spam,استثمار في العملات الرقمية بأرباح مضمونة
+مساء الخير أستاذ خالد، موعدنا باقي الليلة؟ 😊,ar,spam,افتتاحية رقم خاطئ لاحتيال عاطفي: رسالة ودية لشخص غريب لبدء محادثة
+مبروك ربحت التحدي يا بطل 😂 العشا علي الليلة,ar,ham,كلمات ربح في سياق بين أصدقاء
+أدخل 3917 في التطبيق لإكمال تسجيل جهازك الجديد. إذا لم تطلب ذلك فتجاهل الرسالة واتصل بالبنك من الرقم المدون على بطاقتك.,ar,ham,رمز حقيقي من البنك مع إرشاد آمن عند عدم الطلب
+عرض العيد لأعضاء نادي المتجر: خصم 20% على الملابس حتى نهاية الأسبوع، التفاصيل في store.example/eid ولإلغاء الاشتراك أرسل إيقاف,ar,ham,عرض من متجر مشترك فيه بنطاق رسمي
+أبشر بالخير، تحويل 50 ريال وصلني، مشكور,ar,ham,تأكيد استلام تحويل حقيقي
+عاجل يا أحمد: المدير يحتاج ملف الميزانية قبل اجتماع الساعة 11، أرسله على البريد وأنا أراجعه قبل ما ندخل. شكراً,ar,ham,طلب عاجل من زميل عمل
+هلا يمه، هذا رقمي الجديد مثل ما قلت لك أمس في البيت، احفظيه وامسحي القديم. ما أحتاج شيء، بس أسلم عليك,ar,ham,رقم جديد متفق عليه وجهاً لوجه بلا طلب مال
+الدخول مجاني للمعرض في نزوى يوم الجمعة، تعالي مع البنات,ar,ham,كلمة مجاني بين صديقات
+اضغط على رابط الاجتماع في الدعوة اللي أرسلتها لك الصبح، نبدأ الساعة 10,ar,ham,طلب ضغط رابط في سياق عمل
+الحين أفضل وقت للاستثمار في تعلم البرمجة، صدقيني بتربحين كثير,ar,ham,استثمار وربح بمعنى مجازي
+واحد اتصل يقول إنه من البنك ويطلب الرمز، ما عطيته وسكرت وكلمت الرقم اللي ورا البطاقة. انتبهي لا أحد يخدعك,ar,ham,تحذير لصديقة بكلمات احتيال
+"W1NNER!! Y0u g0t a fr33 pr1ze, txt back",en,spam,digits replacing letters
+"F R E E  p h o n e, reply YES now",en,spam,spaced letters
+"L0AN appr0ved 5000 OMR, n0 checks, call +968 XXXX XXXX",en,spam,zero for O obfuscation
+"Hi mum, I lost my phone, this is my new number. Can you send me 50 OMR urgently?",en,spam,"family impersonation, new number"
+Your card has been limited. Restore access at bank-secure-login.example within 24 hours,en,spam,lookalike bank domain
+Your streaming payment failed. Re-enter your card details at strearn-billing.example to keep watching,en,spam,"homoglyph domain, rn for m"
+Refund of 38 OMR pending. Scan the attached QR code and enter your card PIN to receive it.,en,spam,"QR code scam, no link"
+"My mentor turned 200 OMR into 9,000 in 3 weeks with crypto signals. Guaranteed returns, message me to join",en,spam,"crypto investment, guaranteed returns"
+"Hi Sarah, is dinner still on for tonight? 😊 Daniel",en,spam,wrong-number romance opener: a friendly message to a stranger to start a conversation
+"This is Hamad from the bank fraud team. We blocked a suspicious payment, please read me the 6-digit code we just sent to cancel it.",en,spam,fake bank staff asking for code
+Congrats you won the office quiz! Prize is a coffee on me,en,ham,won and prize between colleagues
+Click the link in the calendar invite to join the call,en,ham,click link in work context
+"Someone is signing in to your banking app on a new device. If that's you, enter 60482 to approve. Bank staff never need this number.",en,ham,"genuine sign-in code, bank staff never need it"
+"Hi Grace, as a loyalty member you get FREE delivery this weekend on orders over 10 OMR. Details: shop.example/offers. Reply STOP to opt out.",en,ham,"subscribed store offer, official domain"
+"Got the 25 OMR transfer for the gift, thanks Anil! I'll add it to the group pot tonight.",en,ham,received transfer between friends
+"URGENT: the client moved the deadline to 3pm. Can you send me the final slides before lunch? I'll review them straight away. Thanks, Priya",en,ham,urgent request from a colleague
+"Hi Mum, it's Joseph. As we said at dinner, this is my new number, the old SIM stops on Friday. No need to reply, just save it. Love you",en,ham,"new number agreed in person, no money ask"
+"I won't make it, family thing. Rain check?",en,ham,contains 'won'
+"We won the five-a-side final in Seeb! Free pizza for the whole team tonight, the coach is paying.",en,ham,won and free in a friends' competition
+"Reminder from Maria: the gym lockers at the Sohar site open with 2519 until month end. Only share it within our team, not with visitors.",en,ham,code shared between colleagues

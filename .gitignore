@@ -1,0 +1,10 @@
+.venv*/
+__pycache__/
+.ipynb_checkpoints/
+.env
+outputs/llm_cache.json
+data/v1/
+research_notes/
+.DS_Store
+Thumbs.db
+desktop.ini
